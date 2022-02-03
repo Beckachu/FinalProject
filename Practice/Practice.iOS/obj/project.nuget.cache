@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0B/cHrFErDDY4wgpgwp/MjBebjehHSJGnI/xGQ3IsFSiu7QAvd16Ee3FhIX9IcwEsDnuoYwPk8uXRAlK5OzgJw==",
+  "success": true,
+  "projectFilePath": "/Users/Becka/Desktop/Practice/Practice.iOS/Practice.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/Becka/.nuget/packages/skiasharp/2.80.3/skiasharp.2.80.3.nupkg.sha512",
+    "/Users/Becka/.nuget/packages/skiasharp.views/2.80.3/skiasharp.views.2.80.3.nupkg.sha512",
+    "/Users/Becka/.nuget/packages/skiasharp.views.forms/2.80.3/skiasharp.views.forms.2.80.3.nupkg.sha512",
+    "/Users/Becka/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/Becka/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/Becka/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

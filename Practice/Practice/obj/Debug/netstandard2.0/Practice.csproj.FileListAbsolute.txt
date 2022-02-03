@@ -1,0 +1,15 @@
+/Users/Becka/Desktop/Practice/Practice/bin/Debug/netstandard2.0/Practice.deps.json
+/Users/Becka/Desktop/Practice/Practice/bin/Debug/netstandard2.0/Practice.dll
+/Users/Becka/Desktop/Practice/Practice/bin/Debug/netstandard2.0/ref/Practice.dll
+/Users/Becka/Desktop/Practice/Practice/bin/Debug/netstandard2.0/Practice.pdb
+/Users/Becka/Desktop/Practice/Practice/obj/Debug/netstandard2.0/Practice.csproj.AssemblyReference.cache
+/Users/Becka/Desktop/Practice/Practice/obj/Debug/netstandard2.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Becka/Desktop/Practice/Practice/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/Becka/Desktop/Practice/Practice/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/Becka/Desktop/Practice/Practice/obj/Debug/netstandard2.0/Practice.AssemblyInfoInputs.cache
+/Users/Becka/Desktop/Practice/Practice/obj/Debug/netstandard2.0/Practice.AssemblyInfo.cs
+/Users/Becka/Desktop/Practice/Practice/obj/Debug/netstandard2.0/Practice.csproj.CoreCompileInputs.cache
+/Users/Becka/Desktop/Practice/Practice/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/Becka/Desktop/Practice/Practice/obj/Debug/netstandard2.0/Practice.dll
+/Users/Becka/Desktop/Practice/Practice/obj/Debug/netstandard2.0/ref/Practice.dll
+/Users/Becka/Desktop/Practice/Practice/obj/Debug/netstandard2.0/Practice.pdb
